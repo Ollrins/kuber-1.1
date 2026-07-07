@@ -6,7 +6,7 @@
   <br>
 </p>
 <p align="center">
-  <img src="S/S2.png" width="900"/>
+  <img src="S/S2.png" width="500"/>
   <br>
 </p>
 2. С использованием MicroK8S:
